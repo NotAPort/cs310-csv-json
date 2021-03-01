@@ -1,0 +1,8 @@
+cvsjson.md
+
+The objective of this code was to convert CSV data into
+JSON data and then back. This would allow us to use the
+program for any CSV data and any JSON data. The code
+is split into multiple files that reference two major
+functions which actually change the JSON data and CSV
+data back and forth.
